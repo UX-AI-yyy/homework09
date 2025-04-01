@@ -1,0 +1,1 @@
+let QWEN_API_KEY = "sk-ab4f8b7eaf8f4380b53e500e3054d92f"
